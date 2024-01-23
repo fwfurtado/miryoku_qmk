@@ -1,6 +1,7 @@
 {
     "url": "https://olkb.com/preonic",
     "maintainer": "jackhumbert",
+    "matrix": {"rows": 5, "cols": 12},
     "layouts": {
         "LAYOUT_preonic_1x2uC": {
             "layout": [
