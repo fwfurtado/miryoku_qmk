@@ -1,6 +1,11 @@
 {
     "url": "https://olkb.com/preonic",
+    "manufacturer": "Drop",
     "maintainer": "fwfurtado",
+    "matrix_size": {
+        "cols": 12,
+        "rows": 5
+    },
     "layouts": {
         "LAYOUT_ortho_5x12": {
             "layout": [
